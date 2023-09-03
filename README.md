@@ -1,6 +1,6 @@
 # Sonic: Lock & Load Branding & Assets
 
-Contains assets for Sonic: Lock & Load stuff, in XCF or SVG format.
+Contains assets and branding resources for Sonic: Lock & Load, in Inkscape SVG or GIMP XCF format.
 
 ## License
 
