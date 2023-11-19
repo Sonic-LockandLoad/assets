@@ -2,4 +2,4 @@
 
 Contains the about page.
 
-Requires the Vipnagorgialla and DIN Alternate Bold fonts to work with.
+Requires the Vipnagorgialla and Chakra Petch fonts to work with.
