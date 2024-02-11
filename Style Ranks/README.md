@@ -1,6 +1,6 @@
 # Style Ranks
 
-Made using the Two Weekend Go font.
+Made using the [Two Weekend Go](https://gitlab.com/GuitarBro/two-weekend-go) font.
 
 ## GIMP Drop Shadow filter settings
 
